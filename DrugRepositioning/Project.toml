@@ -2,3 +2,17 @@ name = "DrugRepositioning"
 uuid = "e34fd182-4e1c-4921-aeb8-bffe4018457c"
 authors = ["yeruo <19868036+yeruoforever@users.noreply.github.com>"]
 version = "0.1.0"
+
+[deps]
+BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
